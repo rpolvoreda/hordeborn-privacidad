@@ -24,6 +24,14 @@ Mientras sigas usando el juego. Podés borrar tus datos:
 - En el dispositivo: desinstalando el juego o borrando sus datos desde Ajustes de Android.
 - En la nube: desde la configuración de Google Play Games (Ajustes > Google > Juegos de Play > tu juego > Borrar datos), o escribiéndonos a **rpolvoreda@gmail.com** y lo hacemos.
 
+## Eliminación de tus datos (Hordeborn)
+Podés pedir que borremos tus datos de **Hordeborn** en cualquier momento:
+1. **En tu dispositivo:** desinstalá el juego o borrá sus datos desde Ajustes de Android. Se elimina tu progreso local.
+2. **En la nube (partida guardada de Google Play Games):** desde Ajustes > Google > Juegos de Play > Hordeborn > Borrar datos, o escribiendo a **rpolvoreda@gmail.com** con el asunto "Borrar mis datos de Hordeborn" y te lo borramos.
+
+**Qué se borra:** tu partida guardada en la nube y los datos de progreso asociados a tu cuenta de jugador.
+**Qué no controlamos ni se borra desde acá:** el historial de compras, que conserva Google Play según [su política](https://policies.google.com/privacy), y los datos de publicidad que procesa Google AdMob. Nosotros no guardamos datos de pago.
+
 ## 6. Seguridad
 Los datos viajan cifrados entre tu dispositivo y los servicios de Google. Ningún sistema es 100 % infalible.
 
